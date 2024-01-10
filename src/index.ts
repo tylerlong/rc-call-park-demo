@@ -19,7 +19,7 @@ const main = async () => {
     .sessions(process.env.sessionId)
     .parties(process.env.partyId)
     .park()
-    .post({ data: {} });
+    .post();
 
   await rc.revoke();
 };

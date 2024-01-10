@@ -199,19 +199,19 @@
   resolved "https://registry.yarnpkg.com/@pkgr/core/-/core-0.1.0.tgz#7d8dacb7fdef0e4387caf7396cbd77f179867d06"
   integrity sha512-Zwq5OCzuwJC2jwqmpEQt7Ds1DTi6BWSwoGkbb1n9pO3hzb35BoJELx7c0T23iDkBGkh2e7tvOtjF3tr3OaQHDQ==
 
-"@rc-ex/core@^1.3.6":
-  version "1.3.6"
-  resolved "https://registry.yarnpkg.com/@rc-ex/core/-/core-1.3.6.tgz#bb2ec8a085900a3d7a7fdab81b5f0ebee9f1627b"
-  integrity sha512-uAr+XPRQ8ndcaGFIIU/Kpmygw5EkDfdagTh+Vv7+/3yuknYmgKoIDfYHU70iqmyjJTxBfEyGqg4IzajIFo4Efg==
+"@rc-ex/core@^1.3.7":
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/@rc-ex/core/-/core-1.3.7.tgz#bf74d73a83e0fa88c738030f4069f578c2a14af2"
+  integrity sha512-aHV+VINUjUq27YcFZ8CuxmqdkwQ5eO0CzcTEoZC5En4GetePv2OgUP4BONDCAvT7Q4M2aezWvkCobTYZEZ9oVA==
   dependencies:
     "@types/qs" "^6.9.11"
-    axios "^1.6.3"
+    axios "^1.6.5"
     qs "^6.11.2"
 
-"@rc-ex/debug@^1.1.6":
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/@rc-ex/debug/-/debug-1.1.6.tgz#253fe1e759d3d29102d861f8a94b3f81bd51c23b"
-  integrity sha512-kDNAb91bPd/N7hwpi9iwyk256cuuZ9Ssf3WFQQ3117hfMN9Y9kbqS+MkZI+Cll12ft9oo9LbX93MOgzYexXE9Q==
+"@rc-ex/debug@^1.1.7":
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/@rc-ex/debug/-/debug-1.1.7.tgz#73233b0cc8607077b1311b0b00b17a521a084620"
+  integrity sha512-zbstE9nLQxtMznfLyTHcYuyK7vYEpLr96tm04J61ctWWnNWv+xjXSKMuXJxQibDxW5N50X9SZBXRgJ2Lx0A9FQ==
 
 "@types/json-schema@^7.0.12":
   version "7.0.15"
@@ -373,7 +373,7 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==
 
-axios@^1.6.3:
+axios@^1.6.5:
   version "1.6.5"
   resolved "https://registry.yarnpkg.com/axios/-/axios-1.6.5.tgz#2c090da14aeeab3770ad30c3a1461bc970fb0cd8"
   integrity sha512-Ii012v05KEVuUoFWmMW/UQv9aRIc3ZwkWDcM+h5Il8izZCtRVpDUfwpoFf7eOtajT3QiGR4yDUx7lPqHJULgbg==

@@ -3,7 +3,7 @@
 
 ## Setup
 
-Rename '.env.sample' to '.env' and edit it to specify credentials.
+Rename `.env.sample` to `.env` and edit it to specify credentials.
 
 For `partyId` and `sessionId`, please check the "Run" section below for instructions to find them.
 
